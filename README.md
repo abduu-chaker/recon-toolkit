@@ -1,8 +1,28 @@
-<<<<<<< HEAD
-# Recon Automation Toolkit
+# Recon Toolkit
 
-Advanced Recon Automation Toolkit for Bug Bounty & PenTesting — Subdomain Enum, Port Scan, Directory Bruteforce, DNS Resolver & Reporting.
-=======
-# recon-toolkit
-Advanced Recon Automation Toolkit for Bug Bounty &amp; PenTesting — Subdomain Enum, Port Scan, Directory Bruteforce, DNS Resolver &amp; Reporting.
->>>>>>> 48c58775ece5c8f3ba7f0c6818333ae43811effe
+A simple and beginner-friendly toolkit for subdomain enumeration with future expansion plans.
+
+---
+
+##  Features
+
+* **Enumerate subdomains**
+* **Clean output** for easy reading
+* **No external tools needed** (Python only)
+* **Simple & beginner-friendly code**
+
+---
+
+##  Upcoming Features
+
+* Port scanning
+* Directory brute-forcing
+* DNS lookup
+* Banner grabbing
+* Full automation mode
+
+---
+
+##  Author
+
+Developed by **abduu-chaker**
