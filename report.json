@@ -1,0 +1,7 @@
+{
+    "domain": "target.com",
+    "subdomains": [
+        "www.target.com",
+        "api.target.com"
+    ]
+}
