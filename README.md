@@ -24,16 +24,16 @@ Perfect for beginners & professionals who want a clean and fast workflow.
 #  Project Structure
 
 recon-toolkit/
-│
-"" subdomain_enum.py        # Subdomain enumeration tool
 
-"" api_security_tool.py     # Full API testing tool
+"" subdomain_enum.py       __ # Subdomain enumeration tool
 
-"" port_scanner.py          # Basic port scanner
+"" api_security_tool.py   __  # Full API testing tool
 
-"" README.md                # Project documentation
+"" port_scanner.py      __  # Basic port scanner
 
-"" requirements.txt         # Dependencies
+"" README.md           __   # Project documentation
+
+"" requirements.txt     __   # Dependencies
 
 
 
