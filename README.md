@@ -2,13 +2,9 @@
 **Developed by Abduu-chaker**  
 GitHub: https://github.com/abduu-chaker
 
-```
+
    Recon & API Pentesting Toolkit by Abduu-chaker
-```
 
-```
-
----
 
 ##  Overview
 
@@ -24,11 +20,8 @@ It includes:
 
 Perfect for beginners & professionals who want a clean and fast workflow.
 
----
 
 #  Project Structure
-
-```
 
 recon-toolkit/
 │
@@ -38,9 +31,6 @@ recon-toolkit/
 ├── README.md                # Project documentation
 └── requirements.txt         # Dependencies
 
-````
-
----
 
 #  Installation
 
@@ -56,11 +46,7 @@ cd recon-toolkit
 pip install -r requirements.txt
 ```
 
----
-
 #  Tools Included
-
----
 
 ## 1️⃣ Subdomain Enumerator
 
@@ -72,7 +58,6 @@ Simple and efficient brute-force subdomain scanner.
 python subdomain_enum.py
 ```
 
----
 
 ## 2️⃣ API Security Tester (Pro)
 
@@ -91,7 +76,6 @@ Supports:
 python api_security_tool.py
 ```
 
----
 
 ## 3️⃣ Port Scanner (basic)
 
@@ -102,8 +86,6 @@ Scans common ports of a target host.
 ```bash
 python port_scanner.py
 ```
-
----
 
 #  Requirements
 
@@ -117,8 +99,6 @@ Install using:
 pip install -r requirements.txt
 ```
 
----
-
 #  Author
 
 **Developed by Abduu-chaker**
@@ -126,19 +106,16 @@ GitHub → [https://github.com/abduu-chaker](https://github.com/abduu-chaker)
 
 If you want to contribute, open a **Pull Request**.
 
----
 
 #  License
 
 MIT License — Free to use & modify.
 
----
 
 #  Support the Project
 
 Leave a star on the repo if you like the work!
 
----
 
 #  Notes
 
